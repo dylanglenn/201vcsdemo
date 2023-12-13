@@ -9,7 +9,7 @@ paths:
       summary: Log out a user
       responses:
         '200':
-          description: User logged out successfully
+          description: A new path to log users out of the system.
           content:
             application/json:
               schema:
